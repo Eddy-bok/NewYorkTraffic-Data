@@ -38,4 +38,4 @@ A visually summarized version of the analysis suitable for academic presentation
 
 ## 👤 Author
 **Edidiong Ibokette**  
-Data Analyst | GitHub: [Eddy-bok](https://github.com/Eddy-bok)
+Data Scientist | GitHub: [Eddy-bok](https://github.com/Eddy-bok)
